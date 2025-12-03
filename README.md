@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on business-languages, an online language learning website.
+- 🔭 I’m currently a Student at the University of Galway, completing a PDip in Software Development, Cloud Computing, and DevOps.
 - 🌱 I’m currently learning vuelidate, cloud microservices, and firebase.
 - 📫 How to reach me: sean_c_benson@outlook.com
 - ⚡ Fun fact: I am a marathon runner!
