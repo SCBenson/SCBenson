@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 Intern AI Engineer at Praxail. Recently completed a Postgraduate Diploma (PDip) in Software Development, Cloud Computing, and DevOps at the University of Galway.
+- I am a Fullstack Software Engineer @ Cisco
 - 🌱 I’m currently learning vuelidate, cloud microservices, and firebase.
 - 📫 How to reach me: sean_c_benson@outlook.com
 - ⚡ Fun fact: I am a marathon runner!
