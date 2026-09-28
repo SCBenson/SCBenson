@@ -1,7 +1,14 @@
 ## Hi there 👋
 
 - I am a Fullstack Software Engineer @ Cisco
-- 🌱 I’m currently learning vuelidate, cloud microservices, and firebase.
+- 🌱 I'm currently learning ML and AI engineering from first principles:
+  - **Neural networks from scratch:** NumPy MLP with hand-written backprop, then PyTorch
+  - **Transformers:** building a small GPT by hand (attention, sampling, KV cache)
+  - **Reinforcement learning for LLMs:** policy gradients, PPO, GRPO
+  - **Post-training:** LoRA fine-tuning and preference tuning (DPO) on small open models
+  - **Agents & evals:** tool-calling agents, retrieval, LLM-as-judge, and tracing with OpenTelemetry
+- 🔨 Now building: a NumPy MLP on MNIST, with no autograd and every gradient derived by hand
+- 🗺️ Everything is built in public, so follow along in my repos
 - 📫 How to reach me: sean_c_benson@outlook.com
 - ⚡ Fun fact: I am a marathon runner!
 
